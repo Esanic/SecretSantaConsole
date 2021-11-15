@@ -1,0 +1,16 @@
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.exe
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.deps.json
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.runtimeconfig.json
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.runtimeconfig.dev.json
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.dll
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\ref\Julklappsutlottning.dll
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\bin\Debug\net5.0\Julklappsutlottning.pdb
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.csproj.AssemblyReference.cache
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.AssemblyInfoInputs.cache
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.AssemblyInfo.cs
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.csproj.CoreCompileInputs.cache
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.dll
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\ref\Julklappsutlottning.dll
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.pdb
+C:\Skola\Programmering Grund\Projekt\Julklappsutlottning\Julklappsutlottning\Julklappsutlottning\obj\Debug\net5.0\Julklappsutlottning.genruntimeconfig.cache
