@@ -13,7 +13,8 @@ class Program
           "Daniel",
           "Frida",
           "Sven-Eric",
-          "Hunden"
+          "Hunden",
+          "Katten"
          */
         List<string> from = new List<string>
     {
